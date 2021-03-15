@@ -1,1 +1,1 @@
-# Sentiment anaylsis on amazone review data using LSTM
+# Sentiment analysis on amazon review data using LSTM
